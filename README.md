@@ -27,7 +27,7 @@ Full Developer documentation can be found [here](https://423s25.github.io/projec
 
 [Talia Clarke](https://github.com/taliaiclarke)
 
-[Sierrah Paul](https://github.com/SierrahPaul)
+[Sierrah Paul  GitHub:SierrahPaul](https://github.com/SierrahPaul)
 
 [Ryan Plusch](https://github.com/Pluschious)
 
